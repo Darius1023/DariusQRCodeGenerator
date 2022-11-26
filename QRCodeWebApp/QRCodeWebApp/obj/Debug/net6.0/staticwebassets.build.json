@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bHp0vxW+6/ymgKTC7D3HMB88LR5aWVNi3AR2fI5pAIc=",
+  "Source": "QRCodeWebApp",
+  "BasePath": "_content/QRCodeWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
